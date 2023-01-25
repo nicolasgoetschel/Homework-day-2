@@ -29,7 +29,7 @@ print("Number of STOPS on the way to the capital are", total_stops)
 # #8. Sort the list alphabetically
 stops.sort()
 # #9. Reverse the positions of the stops in the list
-stops.reverse()
+stops.reverse
 # #10 Print out all the stops using a for loop
 print(stops)
 
